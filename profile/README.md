@@ -1,1 +1,1 @@
-lessgo.cloud
+lessgo.cloud is a serverless plateform.
